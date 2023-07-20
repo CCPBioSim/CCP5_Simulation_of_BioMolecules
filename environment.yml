@@ -1,0 +1,16 @@
+name: mdml_workshop
+channels:
+  -  conda-forge
+dependencies:
+  - MDAnalysis>=2.0.0
+  - MDAnalysisTests
+  - MDAnalysisData
+  - scikit-learn
+  - nglview
+  - notebook
+  - jupyter_contrib_nbextensions
+  # For prsentations
+  - rise
+  # testing
+  - pytest
+  - nbval
