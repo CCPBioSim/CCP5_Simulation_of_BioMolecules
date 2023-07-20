@@ -1,4 +1,4 @@
-# From biomolecular data to information - 2022 CCP5 Summer School, Durham 
+# Advanced topics for biomolecular simulation - 2023 CCP5 Summer School, Durham 
 
 This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials that form part of the [CCP5 Biomolecular Simulation Advance Course](https://summer2023.ccp5.ac.uk/#projects_timetable) taking place on July 25-27th 2023 at Durham University.
 
@@ -40,7 +40,7 @@ Room: CC0007 Computer Classroom in the Chemistry Courtyard building
 | 16:00-17:00 | Machine learning for molecular simulations I continued (MD/AM)             | xxx |
 
 
-|  Day 2: 26th July      | Session                 | Materials |
+|  Day 3: 27th July      | Session                 | Materials |
 |-------------|-------------------------|-----------|
 | 9:00-10:00  | L1: ML and Markov Models (MD/AM)| xxx | 
 | 10:00-11:00 | Machine learning for molecular simulations II (MD/AM) | xxx |
