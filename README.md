@@ -1,23 +1,54 @@
 # From biomolecular data to information - 2022 CCP5 Summer School, Durham 
 
-This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials that form part of the [CCP5 Biomolecular Simulation Advance Course](https://summer2022.ccp5.ac.uk/#projects_timetable) taking place on July 26-27th at Durham University.
+This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials that form part of the [CCP5 Biomolecular Simulation Advance Course](https://summer2023.ccp5.ac.uk/#projects_timetable) taking place on July 25-27th 2023 at Durham University.
 
 ## Instructors
-Matteo Degiacomi   
-Micaela Matta   
-Antonia Mey   
+  
+Agnieszka Bronowska (AB)     
+Matteo Degiacomi (MD)   
+Antonia Mey (AM)  
 
 ## Location
 Durham University    
-Room: W414
-
-W414 is on the fourth floor of the Geography ("West") building. Enter at
-the northeast corner of the building at 54.767675, -1.573041. We've
-been asked not to use the "staff" toilets near W414, but rather to use
-the facilities on the ground floor. I shall be putting up some signage.
+Room: CC0007 Computer Classroom in the Chemistry Courtyard building
 
 
 ## Schedule
+
+
+|  Day 1: 25th July      | Session                 | Materials |
+|-------------|-------------------------|-----------|
+| 9:00-10:00  | L1: Introduction to proteins (MD)| xxx | 
+| 10:00-11:00 | L2 + practice: Protein prep (AM) | xxx |
+| 11:00-11:30 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 11:30-12:30 | L3: Intro to Docking (AB)        | xxx |
+| 12:30-14:00 | Lunch                            | N/A |
+| 14:00-15:30 | Docking part I (AB)              | xxx |
+| 15:30-16:00 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 16:00-17:00 | Docking part II (AB)             | xxx |
+
+
+|  Day 2: 26th July      | Session                 | Materials |
+|-------------|-------------------------|-----------|
+| 9:00-10:00  | L1: Simulation Best practices (AM)| xxx | 
+| 10:00-11:00 | P: Setting up a simulation with BioSimSpace (AM) | xxx |
+| 11:00-11:30 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 11:30-12:30 | L3 + practice: Analysis Tools (AM)   | xxx |
+| 12:30-14:00 | Lunch                            | N/A |
+| 14:00-15:30 | Machine learning for molecular simulations I (MD/AM)              | xxx |
+| 15:30-16:00 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 16:00-17:00 | Machine learning for molecular simulations I continued (MD/AM)             | xxx |
+
+
+|  Day 2: 26th July      | Session                 | Materials |
+|-------------|-------------------------|-----------|
+| 9:00-10:00  | L1: ML and Markov Models (MD/AM)| xxx | 
+| 10:00-11:00 | Machine learning for molecular simulations II (MD/AM) | xxx |
+| 11:00-11:30 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 11:30-12:30 | Machine learning for molecular simulations II continued (MD/AM)   | xxx |
+| 12:30-14:00 | Lunch                            | N/A |
+
+
 |  Day      | Session                 | Materials |
 |-----------|-------------------------|-----------|
 |26th PM    | Introduction to the MDAnalysis package (Micaela Matta)| [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_01_System_Manipulation.ipynb) |
