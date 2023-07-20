@@ -49,15 +49,6 @@ Room: CC0007 Computer Classroom in the Chemistry Courtyard building
 | 12:30-14:00 | Lunch                            | N/A |
 
 
-|  Day      | Session                 | Materials |
-|-----------|-------------------------|-----------|
-|26th PM    | Introduction to the MDAnalysis package (Micaela Matta)| [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_01_System_Manipulation.ipynb) |
-|26th PM    | MDAnalysis: advanced topics (Micaela Matta)| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_02_Distances_Trajectories.ipynb) |
-|27th AM| Dimensionality reduction, part 1 (Antonia Mey) |[![Dimensionality reduction 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/1_DR_part1.ipynb)| 
-|27th AM| Dimensionality reduction, part 2 (Matteo Degiacomi) |[![Dimensionality reduction 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/2_DR_part2.ipynb)|
-|27th PM    | Data clustering (Antonia Mey) |[![Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/3_clustering.ipynb)|
-|27th PM| Data classification (Matteo Degiacomi)|[![Classification](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/ML/4_classification.ipynb) |
-
 ## Setting up your Python environment *before the workshop*
 
 <!--The workshop will be in a blended learning environment and hands-on. You will need a working installation of MDAnalysis and related packages including data to analyze in order to participate. The full installation may take up to about 1 GB of space (mostly for data, which you can delete after the workshop).--> 
