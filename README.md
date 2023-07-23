@@ -1,52 +1,53 @@
-# Advanced topics for biomolecular simulation - 2023 CCP5 Summer School, Durham 
+# Advanced topics for biomolecular simulation - 2023 CCP5 Summer School 
 
-This repository contains all the materials for the  MDAnalysis/Machine Learning tutorials that form part of the [CCP5 Biomolecular Simulation Advance Course](https://summer2023.ccp5.ac.uk/#projects_timetable) taking place on July 25-27th 2023 at Durham University.
+This repository contains all the materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2023.ccp5.ac.uk/#projects_timetable) taking place on July 25-27th 2023 at Durham University.
 
 ## Instructors
   
-Agnieszka Bronowska (AB)     
-Matteo Degiacomi (MD)   
-Antonia Mey (AM)  
+Dr Agnieszka Bronowska, Newcastle University (AB)     
+Dr Matteo Degiacomi, Durham University (MTD)   
+Dr Antonia Mey, University of Edinburgh (AM)  
 
 ## Location
 Durham University    
-Room: CC0007 Computer Classroom in the Chemistry Courtyard building
+Room: CC0007 Computer Classroom in the Chemistry Courtyard Building
 
 
 ## Schedule
 
+L1-8: Lectures. P: practical.
 
-|  Day 1: 25th July      | Session                 | Materials |
-|-------------|-------------------------|-----------|
-| 9:00-10:00  | L1: Introduction to proteins (MD)| xxx | 
-| 10:00-11:00 | L2 + practice: Protein prep (AM) | xxx |
+| 25th July   | Session                            | Materials |
+|-------------|------------------------------------|-----------|
+| 9:00-10:00  | L1. Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1.pdf) | 
+| 10:00-11:00 | L2. + P.: Protein Preparation (AM) | xxx |
+| 11:00-11:30 | Coffee                             | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 11:30-12:30 | L3. Intro to Docking (AB)          | xxx |
+| 12:30-14:00 | Lunch                              | - |
+| 14:00-15:30 | Docking part I (AB)                | xxx |
+| 15:30-16:00 | Coffee                             | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 16:00-17:00 | Docking part II (AB)               | xxx |
+
+
+|  26th July  | Session                                             | Materials |
+|-------------|-----------------------------------------------------|-----------|
+| 9:00-10:00  | L4: Simulation Best Practices (AM)                  | xxx | 
+| 10:00-11:00 | P: Setting up a Simulation with BioSimSpace (AM)    | xxx |
+| 11:00-11:30 | Coffee                                              | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | xxx |
+| 12:30-14:00 | Lunch                                               | - |
+| 14:00-15:00 | L6: Dimensionality Reduction and Clustering (MD/AM) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/Lecture_6_DR_Clustering.pdf) |
+| 15:00-15:30 | Coffee                                              | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 15:30-17:00 | P: Dimensionality Reduction 1+2, Clustering (MD/AM)  | [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/1_DR_part1.ipynb) [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/1_DR_part2.ipynb) [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/3_clustering.ipynb) |
+
+
+|  7th July   | Session                          | Materials |
+|-------------|----------------------------------|-----------|
+| 9:00-10:00  | L7: Data Classification (MTD)    | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_classification/Lecture_7_classification.pdf) | 
+| 10:00-11:00 | P: Data Classification (MTD/AM)  | [![Analysis_4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_classification/1_classification.ipynb) |
 | 11:00-11:30 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | L3: Intro to Docking (AB)        | xxx |
-| 12:30-14:00 | Lunch                            | N/A |
-| 14:00-15:30 | Docking part I (AB)              | xxx |
-| 15:30-16:00 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 16:00-17:00 | Docking part II (AB)             | xxx |
-
-
-|  Day 2: 26th July      | Session                 | Materials |
-|-------------|-------------------------|-----------|
-| 9:00-10:00  | L1: Simulation Best practices (AM)| xxx | 
-| 10:00-11:00 | P: Setting up a simulation with BioSimSpace (AM) | xxx |
-| 11:00-11:30 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | L3 + practice: Analysis Tools (AM)   | xxx |
-| 12:30-14:00 | Lunch                            | N/A |
-| 14:00-15:30 | Machine learning for molecular simulations I (MD/AM)              | xxx |
-| 15:30-16:00 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 16:00-17:00 | Machine learning for molecular simulations I continued (MD/AM)             | xxx |
-
-
-|  Day 3: 27th July      | Session                 | Materials |
-|-------------|-------------------------|-----------|
-| 9:00-10:00  | L1: ML and Markov Models (MD/AM)| xxx | 
-| 10:00-11:00 | Machine learning for molecular simulations II (MD/AM) | xxx |
-| 11:00-11:30 | Coffee                           | [James Hoffman](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | Machine learning for molecular simulations II continued (MD/AM)   | xxx |
-| 12:30-14:00 | Lunch                            | N/A |
+| 11:30-12:30 | L8: Markov State Modelling (AM)  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_MSM/Lecture_8_MSM.pdf) |
+| 12:30-14:00 | Lunch                            | - |
 
 
 ## Setting up your Python environment *before the workshop*
