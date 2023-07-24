@@ -19,7 +19,7 @@ L1-8: Lectures. P: practical.
 
 | 25th July   | Session                            | Materials |
 |-------------|------------------------------------|-----------|
-| 9:00-10:00  | L1: Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_introduction.pdf) | 
+| 9:00-10:00  | L1: Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_introduction.pdf) [Webserver](https://server.poissonboltzmann.org/pdb2pqr) | 
 | 10:00-11:00 | L2 & P: Protein Preparation (AM) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_2_protein_prep.pdf) |
 | 11:00-11:30 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L3: Introduction to Docking (AB)   | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Docking/Lecture_3_docking.pdf) |
