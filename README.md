@@ -70,19 +70,19 @@ If for any reason you cannot set up a local environment with all required packag
 The course assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
 
 
-## License
+## Licenses
 
 <!--TBA-->
-The MDAnalysis logo and its derivatives are licensed under the Creative Commons Attribution-NoDerivs 3.0 Unported License.
 
-The MDAnalysis material is licences under CC-BY 4.0 
+The BioSimSpace material in folder 3_\* licenced under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+The MDAnalysis logo and its derivatives are licensed under the [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/).
+
+The MDAnalysis material in folder 3_\* is licenced under CC-BY 4.0 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
 
-The ML material is licenced under CC-BY-SA 4.0. 
-
+Material in folders 1_\*, 4_\*, 5_\*, and 6_\* is licenced under CC-BY-SA 4.0.
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="width=50" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
-
-See [here](https://creativecommons.org/about/cclicenses/) for the details of the licence
 
 
 ## Acknowledgements
