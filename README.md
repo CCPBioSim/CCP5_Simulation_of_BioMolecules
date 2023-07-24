@@ -34,7 +34,7 @@ L1-8: Lectures. P: practical.
 | 9:00-10:00  | L4: Simulation Best Practices (AM)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/Lecture_4_Simulation_setup.pdf) | 
 | 10:00-11:00 | P: Simulation setup with BioSimSpace (AM)           | Practical Slides |
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | [Lecture Slides](), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_MDAnalysis/MD_01_System_Manipulation.ipynb)|
+| 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | [Lecture Slides](4_Analysis_MDAnalysis/Lecture_5_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_MDAnalysis/MD_01_System_Manipulation.ipynb)|
 | 12:30-14:00 | Lunch                                               | 🍝 |
 | 14:00-15:00 | L6: Dimensionality Reduction & Clustering (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/Lecture_6_DR_Clustering.pdf) |
 | 15:00-15:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
