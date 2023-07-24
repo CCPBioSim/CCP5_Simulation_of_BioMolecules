@@ -31,7 +31,7 @@ L1-8: Lectures. P: practical.
 
 |  26th July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
-| 9:00-10:00  | L4: Simulation Best Practices (AM)                  | Lecture Slides | 
+| 9:00-10:00  | L4: Simulation Best Practices (AM)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/Lecture_4_Simulation_setup.pdf) | 
 | 10:00-11:00 | P: Setting up a Simulation with BioSimSpace (AM)    | Practical Slides |
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | Lecture Slides |
