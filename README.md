@@ -74,14 +74,14 @@ The course assumes that attendees have a working knowledge of [Jupyter notebooks
 
 <!--TBA-->
 
-The BioSimSpace material in folder 3_\* licenced under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+The BioSimSpace material in folder [3_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/3_Simulation_Setup) licenced under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 The MDAnalysis logo and its derivatives are licensed under the [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/).
 
-The MDAnalysis material in folder 3_\* is licenced under CC-BY 4.0 
+The MDAnalysis material in folder [3_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/3_Simulation_Setup) is licenced under CC-BY 4.0 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
 
-Material in folders 1_\*, 4_\*, 5_\*, and 6_\* is licenced under CC-BY-SA 4.0.
+Material in folders [1_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/1_Introduction), [4_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/4_Analysis_DR_clustering), [5_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/5_Analysis_classification), and [6_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/6_Analysis_MSM) is licenced under CC-BY-SA 4.0.
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="width=50" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
 
 
