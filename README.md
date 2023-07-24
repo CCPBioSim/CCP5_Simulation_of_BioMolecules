@@ -36,17 +36,17 @@ L1-8: Lectures. P: practical.
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | Lecture Slides |
 | 12:30-14:00 | Lunch                                               | 🍝 |
-| 14:00-15:00 | L6: Dimensionality Reduction and Clustering (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/Lecture_6_DR_Clustering.pdf) |
+| 14:00-15:00 | L6: Dimensionality Reduction and Clustering (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/Lecture_6_DR_Clustering.pdf) |
 | 15:00-15:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 15:30-17:00 | P: Dimensionality Reduction 1+2, Clustering (MTD/AM)  | [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/1_DR_part1.ipynb) [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/2_DR_part2.ipynb) [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/3_clustering.ipynb) |
+| 15:30-17:00 | P: Dimensionality Reduction 1+2, Clustering (MTD/AM)  | [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/1_DR_part1.ipynb) [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/2_DR_part2.ipynb) [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/3_clustering.ipynb) |
 
 
 |  7th July   | Session                          | Materials |
 |-------------|----------------------------------|-----------|
-| 9:00-10:00  | L7: Data Classification (MTD)    | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_classification/Lecture_7_classification.pdf) | 
-| 10:00-11:00 | P: Data Classification (MTD/AM)  | [![Analysis_4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_classification/1_classification.ipynb) |
+| 9:00-10:00  | L7: Data Classification (MTD)    | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_classification/Lecture_7_classification.pdf) | 
+| 10:00-11:00 | P: Data Classification (MTD/AM)  | [![Analysis_4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_classification/1_classification.ipynb) |
 | 11:00-11:30 | Coffee                           | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | L8: Markov State Modelling (AM)  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_MSM/Lecture_8_MSM.pdf) |
+| 11:30-12:30 | L8: Markov State Modelling (AM)  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_MSM/Lecture_8_MSM.pdf) |
 | 12:30-14:00 | Lunch                            | 🍝 |
 
 
@@ -78,10 +78,10 @@ The BioSimSpace material in folder [3_\*](https://github.com/CCPBioSim/CCP5_Simu
 
 The MDAnalysis logo and its derivatives are licensed under the [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/).
 
-The MDAnalysis material in folder [3_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/3_Simulation_Setup) is licenced under CC-BY 4.0 
+The MDAnalysis material in folder [4_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/4_Analysis_MDAnalysis) is licenced under CC-BY 4.0 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
 
-Material in folders [1_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/1_Introduction), [4_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/4_Analysis_DR_clustering), [5_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/5_Analysis_classification), and [6_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/6_Analysis_MSM) is licenced under CC-BY-SA 4.0.
+Material in folders [1_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/1_Introduction), [5_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/5_Analysis_DR_clustering), [6_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/6_Analysis_classification), and [7_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/7_Analysis_MSM) is licenced under CC-BY-SA 4.0.
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="width=50" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
 
 
