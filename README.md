@@ -19,24 +19,24 @@ L1-8: Lectures. P: practical.
 
 | 25th July   | Session                            | Materials |
 |-------------|------------------------------------|-----------|
-| 9:00-10:00  | L1. Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1.pdf) | 
-| 10:00-11:00 | L2. + P.: Protein Preparation (AM) | xxx |
+| 9:00-10:00  | L1: Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_introduction.pdf) | 
+| 10:00-11:00 | L2 & P: Protein Preparation (AM) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_2_protein_prep.pdf) |
 | 11:00-11:30 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | L3. Intro to Docking (AB)          | xxx |
+| 11:30-12:30 | L3: Introduction to Docking (AB)   | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Docking/Lecture_3_docking.pdf) |
 | 12:30-14:00 | Lunch                              | 🍝 |
-| 14:00-15:30 | Docking part I (AB)                | xxx |
+| 14:00-15:30 | P: Docking (AB)                    | [Practical Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Docking/Docking_Practicals.pdf) |
 | 15:30-16:00 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 16:00-17:00 | Docking part II (AB)               | xxx |
+| 16:00-17:00 | P: Docking (AB)                    | [Practical Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Docking/Docking_Practicals.pdf) |
 
 
 |  26th July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
-| 9:00-10:00  | L4: Simulation Best Practices (AM)                  | xxx | 
-| 10:00-11:00 | P: Setting up a Simulation with BioSimSpace (AM)    | xxx |
+| 9:00-10:00  | L4: Simulation Best Practices (AM)                  | Lecture Slides | 
+| 10:00-11:00 | P: Setting up a Simulation with BioSimSpace (AM)    | Practical Slides |
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | xxx |
+| 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | Lecture Slides |
 | 12:30-14:00 | Lunch                                               | 🍝 |
-| 14:00-15:00 | L6: Dimensionality Reduction and Clustering (MTD/AM) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/Lecture_6_DR_Clustering.pdf) |
+| 14:00-15:00 | L6: Dimensionality Reduction and Clustering (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/Lecture_6_DR_Clustering.pdf) |
 | 15:00-15:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 15:30-17:00 | P: Dimensionality Reduction 1+2, Clustering (MTD/AM)  | [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/1_DR_part1.ipynb) [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/1_DR_part2.ipynb) [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_DR_clustering/3_clustering.ipynb) |
 
@@ -70,19 +70,19 @@ If for any reason you cannot set up a local environment with all required packag
 The course assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
 
 
-## License
+## Licenses
 
 <!--TBA-->
-The MDAnalysis logo and its derivatives are licensed under the Creative Commons Attribution-NoDerivs 3.0 Unported License.
 
-The MDAnalysis material is licences under CC-BY 4.0 
+The BioSimSpace material in folder 3_\* licenced under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+The MDAnalysis logo and its derivatives are licensed under the [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/).
+
+The MDAnalysis material in folder 3_\* is licenced under CC-BY 4.0 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
 
-The ML material is licenced under CC-BY-SA 4.0. 
-
+Material in folders 1_\*, 4_\*, 5_\*, and 6_\* is licenced under CC-BY-SA 4.0.
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="width=50" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
-
-See [here](https://creativecommons.org/about/cclicenses/) for the details of the licence
 
 
 ## Acknowledgements
