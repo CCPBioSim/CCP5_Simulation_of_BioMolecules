@@ -12,6 +12,7 @@ This repository contains all the materials for the *Simulation of Biomolecules* 
 Durham University    
 Room: CC0007 Computer Classroom in the Chemistry Courtyard Building
 
+Wed: 2-3 pm CG91 For a one hour lecture
 
 ## Schedule
 
@@ -64,6 +65,10 @@ As downloading and installing everything will take a little while, ideally you s
 ## Google Colab
 
 If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
+
+## BioSimSpace setup for [3_Simulation_setup](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/)
+
+Information for the installation of this can be found in this [README](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/BioSimSpaceTutorial/README.md)
 
 ## Course pre-requisites
 
