@@ -33,7 +33,7 @@ L1-8: Lectures. P: practical.
 |  26th July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
 | 9:00-10:00  | L4: Simulation Best Practices (AM)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/Lecture_4_Simulation_setup.pdf) | 
-| 10:00-11:00 | P: Simulation setup with BioSimSpace (AM)           | Practical Slides |
+| 10:00-11:00 | P: Simulation setup with BioSimSpace (AM)           | [Practical Notebook](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/BioSimSpaceTutorial/01_introduction.ipynb) |
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | [Lecture Slides](4_Analysis_MDAnalysis/Lecture_5_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_MDAnalysis/MD_01_System_Manipulation.ipynb)|
 | 12:30-14:00 | Lunch                                               | 🍝 |
@@ -42,7 +42,7 @@ L1-8: Lectures. P: practical.
 | 15:30-17:00 | P: Dimensionality Reduction & Clustering (MTD/AM)   | [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/1_DR_part1.ipynb) [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/2_DR_part2.ipynb) [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/3_clustering.ipynb) |
 
 
-|  7th July   | Session                          | Materials |
+| 27th July   | Session                          | Materials |
 |-------------|----------------------------------|-----------|
 | 9:00-10:00  | L7: Data Classification (MTD)    | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_classification/Lecture_7_classification.pdf) | 
 | 10:00-11:00 | P: Data Classification (MTD/AM)  | [![Analysis_4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_classification/1_classification.ipynb) |
