@@ -1,18 +1,11 @@
-# Advanced topics for biomolecular simulation - 2023 CCP5 Summer School 
+# Advanced topics for biomolecular simulation - 2024 CCP5 Summer School 
 
-This repository contains all the materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2023.ccp5.ac.uk/#projects_timetable) taking place on July 25-27th 2023 at Durham University.
+This repository contains all the materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School][(https://summer2023.ccp5.ac.uk/#projects_timetable](https://summer2024.ccp5.ac.uk/)) taking place on July 23-25th 2024 at Newcastle University.
 
 ## Instructors
-  
-- [Dr Agnieszka Bronowska, Newcastle University (AB)](https://www.ncl.ac.uk/nes/people/profile/agnieszkabronowska.html)     
+    
 - [Dr Matteo Degiacomi, Durham University (MTD)](https://degiacomi.org)
 - [Dr Antonia Mey, University of Edinburgh (AM)](https://mey-research.org/)  
-
-## Location
-Durham University    
-Room: CC0007 Computer Classroom in the Chemistry Courtyard Building
-
-Wed: 2-3 pm CG91 For a one hour lecture
 
 ## Schedule
 
@@ -49,7 +42,6 @@ L1-8: Lectures. P: practical.
 | 11:00-11:30 | Coffee                           | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L8: Markov State Modelling (AM)  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_MSM/Lecture_8_MSM.pdf) |
 | 12:30-14:00 | Lunch                            | 🍝 |
-
 
 ## Setting up your Python environment *before the workshop*
 
