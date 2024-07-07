@@ -16,16 +16,16 @@ L1-8: Lectures. P: practical.
 | 9:00-10:00  | L1: Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_introduction.pdf) | 
 | 10:00-11:00 | L2 & P: Protein Preparation (AM) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_2_protein_prep.pdf), [Webserver](https://server.poissonboltzmann.org/pdb2pqr)|
 | 11:00-11:30 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 11:30-12:30 | L3: Introduction to Docking (AB)   | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Docking/Lecture_3_docking.pdf) |
+| 11:30-12:30 | L3: Introduction to Docking (AM)   | Lecture Slides |
 | 12:30-14:00 | Lunch                              | 🍝 |
-| 14:00-15:30 | P: Docking (AB)                    | [Practical Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Docking/Docking_Practicals.pdf) |
+| 14:00-15:30 | P: Docking (AM)                    | Practical Slides |
 | 15:30-16:00 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 16:00-17:00 | P: Docking (AB)                    | [Practical Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Docking/Docking_Practicals.pdf) |
+| 16:00-17:00 | P: Docking (AB)                    | Practical Slides |
 
 
 |  26th July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
-| 9:00-10:00  | L4: Simulation Best Practices (AM)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/Lecture_4_Simulation_setup.pdf) | 
+| 9:00-10:00  | L4: Simulation Best Practices (MTD)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/Lecture_4_Simulation_setup.pdf) | 
 | 10:00-11:00 | P: Simulation setup with BioSimSpace (AM)           | [Practical Notebook](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/BioSimSpaceTutorial/01_introduction.ipynb) |
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L5 & P: Analysis Tools (AM)                         | [Lecture Slides](4_Analysis_MDAnalysis/Lecture_5_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Analysis_MDAnalysis/MD_01_System_Manipulation.ipynb)|
