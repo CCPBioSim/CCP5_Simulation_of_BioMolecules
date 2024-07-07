@@ -1,6 +1,6 @@
 # Advanced topics for biomolecular simulation - 2024 CCP5 Summer School 
 
-This repository contains all the materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School][(https://summer2023.ccp5.ac.uk/#projects_timetable](https://summer2024.ccp5.ac.uk/)) taking place on July 23-25th 2024 at Newcastle University.
+This repository contains all the materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2024.ccp5.ac.uk/) taking place on July 23-25th 2024 at Newcastle University.
 
 ## Instructors
     
