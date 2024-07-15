@@ -32,7 +32,7 @@ L1-8: Lectures. P: practical.
 | 14:00-14:30 | L6: Dimensionality Reduction (MTD)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_DR_clustering/Lecture_6_DR_Clustering.pdf)  |
 | 14:30-15:30 | P: Dimensionality Reduction (MTD/AM)           |  [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/1_DR_part1.ipynb) [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/2_DR_part2.ipynb)|
 | 15:30-16:00 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 16:00-17:00 | L7 & P: Clustering (MTD/AM)   | [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_clustering/1_clustering.ipynb) |
+| 16:00-17:00 | L7 & P: Clustering (MTD/AM)   | [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/1_clustering.ipynb) |
 
 
 | 27th July   | Session                          | Materials |
