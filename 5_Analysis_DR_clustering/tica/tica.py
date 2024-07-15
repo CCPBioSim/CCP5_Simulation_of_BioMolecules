@@ -1,9 +1,12 @@
 # This file was extracted from the MSMBuilder GitHub repo on 1/21/2020 and 
-# modified to work as a standalone tICA implementation. The original authors and 
-# documentation is included below:
+# modified to work as a standalone tICA implementation.
+# Updated on 15/07/2024 for compatibility with scipy 1.14
+#
+# The original authors and documentation is included below:
 #
 # Author: Christian Schwantes <schwancr@gmail.com>
-# Contributors: Robert McGibbon <rmcgibbo@gmail.com>, Kyle A. Beauchamp  <kyleabeauchamp@gmail.com>,
+# Contributors: Robert McGibbon <rmcgibbo@gmail.com>,
+# Kyle A. Beauchamp  <kyleabeauchamp@gmail.com>,
 # Muneeb Sultan <msultan@stanford.edu>, Brooke Husic <brookehusic@gmail.com>
 # Copyright (c) 2014, Stanford University
 # All rights reserved.
@@ -248,7 +251,7 @@ class tICA(BaseEstimator, TransformerMixin):
             raise RuntimeError('correlation matrix is not symmetric')
 
         vals, vecs = scipy.linalg.eigh(lhs, b=rhs,
-            eigvals=(self.n_features-self.n_components, self.n_features-1))
+            subset_by_index=(self.n_features-self.n_components, self.n_features-1))
 
         # sort in order of decreasing value
         ind = np.argsort(vals)[::-1]
