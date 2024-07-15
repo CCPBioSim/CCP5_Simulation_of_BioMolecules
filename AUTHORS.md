@@ -14,3 +14,7 @@ Authors are added at each year of contribution and sorted by first name.
 - Dr Agnieszka Bronowska
 - Dr Matteo Degiacomi
 - Dr Antonia Mey
+
+## 2024
+- Dr Matteo Degiacomi
+- Dr Antonia Mey
