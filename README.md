@@ -11,7 +11,7 @@ This repository contains all the materials for the *Simulation of Biomolecules* 
 
 L1-8: Lectures. P: practical.
 
-| 25th July   | Session                            | Materials |
+| 23th July   | Session                            | Materials |
 |-------------|------------------------------------|-----------|
 | 9:00-10:00  | L1: Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_introduction.pdf) | 
 | 10:00-11:00 | L2 & P: Understanding Protein Systems (AM) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_2_protein_prep.pdf), [Webserver](https://server.poissonboltzmann.org/pdb2pqr)|
@@ -23,7 +23,7 @@ L1-8: Lectures. P: practical.
 | 16:00-17:00 | P: Running a Small Molecule Simulation (AM) | Practical Slides |
 
 
-|  26th July  | Session                                             | Materials |
+|  24th July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
 | 9:00-11:00  | L4 & P: Protein-Ligand Docking (AM)                 | Lecture Slides| 
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
@@ -35,7 +35,7 @@ L1-8: Lectures. P: practical.
 | 16:00-17:00 | L7 & P: Clustering (MTD/AM)   |  [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/Lecture_7_Clustering.pdf)  [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/1_clustering.ipynb) |
 
 
-| 27th July   | Session                          | Materials |
+| 25th July   | Session                          | Materials |
 |-------------|----------------------------------|-----------|
 | 9:00-10:00  | L8: Data Classification (MTD)    | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/8_Analysis_classification/Lecture_8_classification.pdf) | 
 | 10:00-11:00 | P: Data Classification (MTD/AM)  | [![Analysis_4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/8_Analysis_classification/1_classification.ipynb) |
