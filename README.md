@@ -25,7 +25,7 @@ L1-8: Lectures. P: practical.
 
 |  24th July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
-| 9:00-11:00  | L4 & P: Protein-Ligand Docking (AM)                 | Lecture Slides,![Docking](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Docking/Docking.ipynb)| 
+| 9:00-11:00  | L4 & P: Protein-Ligand Docking (AM)                 | Lecture Slides,[![Docking](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Docking/Docking.ipynb)| 
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L5 & P: Simulation Basic Analyses (MTD)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/1_MDAnalysis.ipynb)|
 | 12:30-14:00 | Lunch                                               | 🍝 |
