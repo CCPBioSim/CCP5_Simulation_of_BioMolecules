@@ -1,0 +1,27 @@
+name: openff-docs-examples
+channels:
+    - conda-forge
+dependencies:
+    - pip
+    - python=3.10
+    - jupyterlab>=4
+    - ipywidgets>=8
+    # Cookbook
+    - gitpython
+    - nbconvert
+    - nbformat
+    - requests
+    - packaging
+    # Examples
+    - openff-toolkit-examples>=0.16.0
+    - openff-interchange ~=0.3.28
+    - openff-nagl
+    # - openff-fragmenter
+    # - openff-qcsubmit
+    - openmmforcefields=0.12|>=0.14 # https://github.com/openmm/openmmforcefields/pull/329
+    - gromacs >=2021=nompi*
+    - lammps
+    - rich
+    - jax
+    - parmed<4
+    - nglview>=3.0.6,<3.1.0
