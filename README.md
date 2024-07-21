@@ -58,20 +58,13 @@ As downloading and installing everything will take a little while, ideally you s
 
 If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
 
-## BioSimSpace setup for [3_Simulation_setup](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/)
-
-Information for the installation of this can be found in this [README](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Simulation_Setup/BioSimSpaceTutorial/README.md)
-
 ## Course pre-requisites
 
 The course assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
 
-
 ## Licenses
 
 <!--TBA-->
-
-The BioSimSpace material in folder [3_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/3_Simulation_Setup) licenced under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 The MDAnalysis logo and its derivatives are licensed under the [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/).
 
