@@ -16,24 +16,24 @@ L1-8: Lectures. P: practical.
 | 09:00-10:00  | L1: Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_Introduction.pdf) | 
 | 10:00-11:00 | L2: Understanding Protein Systems (AM) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Protein_Preparation/Lecture_2_Protein_Prep.pdf)
 | 11:00-11:30 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 10:30-12:30 | P: Understanding Protein Systems, contd. (AM) | [Webserver](https://server.poissonboltzmann.org/pdb2pqr)|
+| 11:30-12:30 | P: Understanding Protein Systems, contd. (MTD/AM) | [Webserver](https://server.poissonboltzmann.org/pdb2pqr)|
 | 12:30-14:00 | Lunch                              | 🍝 |
 | 14:00-15:30  | L4 & P: Protein-Ligand Docking (AM)                 |  [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Docking/Lecture_3_Docking.pdf), [![Docking](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Docking/Docking.ipynb)| 
 | 15:30-16:00 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 9:00-11:00  | L4 & P: Protein-Ligand Docking, contd. (AM)                 |  | 
+| 16:00-17:00  | L4 & P: Protein-Ligand Docking, contd. (AM)                 |  | 
 
 
 
 |  24th July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
-| 09:00-11:00 | L3 & P: Simulation Setup (MTD)          | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/Lecture_4_Simulation_setup.pdf), [![Simulation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/1_ligand_in_water.ipynb)
+| 09:00-11:00 | L3 & P: Simulation Setup (AM/MTD)          | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/Lecture_4_Simulation_setup.pdf), [![Simulation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/1_ligand_in_water.ipynb)
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L5 & P: Simulation Basic Analyses (MTD)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/1_MDAnalysis.ipynb)|
 | 12:30-14:00 | Lunch                                               | 🍝 |
 | 14:00-14:30 | L6: Dimensionality Reduction (MTD)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/Lecture_6_DR.pdf)  |
 | 14:30-15:30 | P: Dimensionality Reduction (MTD/AM)           |  [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/1_DR_part1.ipynb), [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/2_DR_part2.ipynb)|
 | 15:30-16:00 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
-| 16:00-17:00 | L7 & P: Clustering (MTD/AM)   |  [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/Lecture_7_Clustering.pdf),  [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/1_clustering.ipynb) |
+| 16:00-17:00 | L7 & P: Clustering (AM)   |  [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/Lecture_7_Clustering.pdf),  [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/1_clustering.ipynb) |
 
 
 | 25th July   | Session                          | Materials |
