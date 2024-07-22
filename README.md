@@ -57,22 +57,25 @@ As downloading and installing everything will take a little while, ideally you s
 
 ## Google Colab
 
-If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
+If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. In particular, please note that the Open Force Field material in the Jupyter notebook of session [4_Simulation_Setup](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/4_Simulation_Setup) will not natively run on Windows machines. For extra information [see here](https://docs.openforcefield.org/en/latest/install.html#openff-on-windows).
+
 
 ## Course pre-requisites
 
-The course assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
+The course assumes that attendees have a working knowledge of [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/), Python (especially the [NumPy library](https://numpy.org/), and the bash shell.
+
 
 ## Licenses
 
 <!--TBA-->
 
-The MDAnalysis logo and its derivatives are licensed under the [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/).
-
-The MDAnalysis material in folder [5_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/5_Analysis_MDAnalysis) is licenced under CC-BY 4.0 
+- The MDAnalysis logo and its derivatives are licensed under the [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/).
+- The MDAnalysis material in folder [5_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/5_Analysis_MDAnalysis) is licenced under CC-BY 4.0 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" title='This work is licensed under a Creative Commons Attribution 4.0 International License.' align="right"/></a>
-
-Material in folders [1_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/1_Introduction),
+- The Doking material in folder [3_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/3_Docking) is licensed under Apache-2.0 license.
+- The Open Force Field material in folder [4_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/4_Simulation_Setup) is licensed under MIT license.
+- Material in folders [1_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/1_Introduction),
+[2_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/2_Protein_Preparation),
 [6_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/5_Analysis_DR),
 [7_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/6_Analysis_clustering)
 [8_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/8_Analysis_classification), and
@@ -82,9 +85,4 @@ Material in folders [1_\*](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMo
 
 ## Acknowledgements
 
-Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop
-materials.
-
-##
-[1]: https://jupyter-notebook.readthedocs.io/en/stable/
-[2]: https://numpy.org/
+Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
