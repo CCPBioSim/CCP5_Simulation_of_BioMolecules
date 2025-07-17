@@ -46,6 +46,8 @@ L1-8: Lectures. P: practical.
 | 12:30-14:00 | Lunch                            | 🍝 |
 
 
+## Running the Workshop
+
 ### Google Colab
 
 The workshop is designed to run on Google Colab and all workshop notebooks run directly from your browser, no installation is required. In particular, please note that the Open Force Field material in the Jupyter notebook of session [4_Simulation_Setup](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/tree/main/4_Simulation_Setup) will not natively run on Windows machines. For extra information [see here](https://docs.openforcefield.org/en/latest/install.html#openff-on-windows).
@@ -59,7 +61,7 @@ To avoid waiting for everyone's setup to be up and running we highly recommend t
 
 ## Course pre-requisites
 
-The course assumes that attendees have a working knowledge of [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/), Python (especially the [NumPy library](https://numpy.org/), and the bash shell.
+The course assumes that attendees have a working knowledge of [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/), Python (especially the [NumPy library](https://numpy.org/)), and the bash shell.
 
 
 ## Licenses
