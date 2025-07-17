@@ -18,3 +18,6 @@ Authors are added at each year of contribution and sorted by first name.
 ## 2024
 - Dr Matteo Degiacomi
 - Dr Antonia Mey
+
+## 2025
+- Dr Matteo Degiacomi
