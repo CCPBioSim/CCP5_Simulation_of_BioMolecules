@@ -1,6 +1,6 @@
 # Advanced topics for biomolecular simulation - 2025 CCP5 Summer School 
 
-This repository contains all the materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2025.ccp5.ac.uk/) taking place on 29-31 July 2025 at Newcastle University. The materials are taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop].
+This repository contains all the materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2025.ccp5.ac.uk/) taking place on 29-31 July 2025 at Newcastle University. The materials are taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop).
 
 ## Instructors
     
@@ -12,7 +12,7 @@ This repository contains all the materials for the *Simulation of Biomolecules* 
 
 L1-8: Lectures. P: practical.
 
-| 23th July   | Session                            | Materials |
+| 29 July   | Session                            | Materials |
 |-------------|------------------------------------|-----------|
 | 09:00-10:00  | L1: Introduction to Proteins (MTD) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_Introduction.pdf) | 
 | 10:00-11:00 | L2: Understanding Protein Systems (JG) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Protein_Preparation/Lecture_2_Protein_Prep.pdf)
@@ -25,7 +25,7 @@ L1-8: Lectures. P: practical.
 
 
 
-|  24th July  | Session                                             | Materials |
+|  30 July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
 | 09:00-11:00 | L3 & P: Simulation Setup (DC)          | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/Lecture_4_Simulation_setup.pdf), [![Simulation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/4_Simulation_Setup.ipynb)
 | 11:00-11:30 | Coffee                                              | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
@@ -37,7 +37,7 @@ L1-8: Lectures. P: practical.
 | 16:00-17:00 | L7 & P: Clustering (MTD)   |  [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/Lecture_7_Clustering.pdf),  [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/7_Analysis_clustering.ipynb) |
 
 
-| 25th July   | Session                          | Materials |
+| 31 July   | Session                          | Materials |
 |-------------|----------------------------------|-----------|
 | 09:00-10:00  | L8: Data Classification (MTD)    | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/8_Analysis_classification/Lecture_8_classification.pdf) | 
 | 10:00-11:00 | P: Data Classification (MTD)  | [![Analysis_4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/8_Analysis_classification/8_Analysis_classification.ipynb) |
