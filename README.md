@@ -21,17 +21,14 @@ L1-8: Lectures. P: practical.
 | 12:00-12:30 | L3 Simulation Setup        | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/Lecture_4_Simulation_setup.pdf)
 | 12:30-14:00 | Lunch                              | :spaghetti: |
 | 14:00-15:00 | Simulation Setup continued (DC)          | [![Simulation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/4_Simulation_Setup.ipynb)
-| 15:00-15:30 | L5 & P: Simulation Basic Analyses (MTD)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/5_Analysis_MDAnalysis.ipynb)
+| 15:00-15:30 | L5 Simulation Basic Analyses (MTD)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/5_Analysis_MDAnalysis.ipynb)
 | 15:30-16:00 | Coffee                             | [:coffee:](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 16:00-17:00 | L5 & P: Simulation Basic Analyses (MTD)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/5_Analysis_MDAnalysis.ipynb)
-| 16:30-17:00 | L6: Dimensionality Reduction (MTD)                  | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/Lecture_6_DR.pdf)  |
-
-
 
 
 |  30 July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
-| 09:00-11:00 | P: Dimensionality Reduction (MTD)       |  [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/6_Analysis_DR_part1.ipynb), [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/6_Analysis_DR_part2.ipynb)
+| 09:00-11:00 |  L6: Dimensionality Reduction (MTD), P: Dimensionality Reduction (MTD)       | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/Lecture_6_DR.pdf)  [![Analysis_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/6_Analysis_DR_part1.ipynb), [![Analysis_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/6_Analysis_DR/6_Analysis_DR_part2.ipynb)
 | 11:00-11:30 | Coffee                                              | [:coffee:](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30 | L7 & P: Clustering (MTD)   |  [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/Lecture_7_Clustering.pdf),  [![Analysis_3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/7_Analysis_clustering/7_Analysis_clustering.ipynb) |
 | 12:30-14:00 | Lunch                                               | :spaghetti: |
