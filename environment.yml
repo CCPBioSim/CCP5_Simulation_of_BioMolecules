@@ -2,6 +2,15 @@ name: mdml_workshop
 channels:
   -  conda-forge
 dependencies:
+  - python=3.12.13
+  #- mdtraj=1.11.0
+  #- nglview
+  #- openmm=8.3.1
+  #- openff-toolkit=0.16.0
+  #- openff-toolkit-examples>=0.16.0
+  #- openff-interchange~=0.3.28
+  #- rich=14.0.0
+  #- ipywidgets
   - MDAnalysis>=2.0.0
   - MDAnalysisTests
   - MDAnalysisData
@@ -10,6 +19,7 @@ dependencies:
   - notebook
   - jupyter_contrib_nbextensions
   # For prsentations
+  - setuptools<82
   - rise
   # testing
   - pytest
