@@ -1,6 +1,6 @@
 # Advanced topics for biomolecular simulation - 2026 CCP5 Summer School 
 
-This repository contains the materials for day 1 and 3 of the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2026.ccp5.ac.uk) taking place on 28th-30th July 2025 at Newcastle University. The materials are taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop). Day 2 materials will be provided separately.
+This repository contains the materials for day 1 and 3 of the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2026.ccp5.ac.uk) taking place on 28th-30th July 2026 at Newcastle University. The materials are taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop). Day 2 materials will be provided separately.
 
 ## Instructors
     
@@ -27,7 +27,7 @@ L1-8: Lectures. P: practical.
 | 11:30-12:00  | P: Understanding Complex Protein Systems, contd. (JG) | [Webserver](https://server.poissonboltzmann.org/pdb2pqr)               |  
 | 12:00-12:30 | L3 Simulation Setup (FC)       | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/Lecture_4_Simulation_setup.pdf)
 | 12:30-14:00 | Lunch                              | 🍝 |
-| 14:00-15:00 | Simulation Setup continued (FC)          | [![Simulation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/4_Simulation_Setup.ipynb)
+| 14:00-15:00 | P: Simulation Setup continued (FC)          | [![Simulation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/4_Simulation_Setup.ipynb)
 | 15:00-15:30 | L5 Simulation Basic Analyses (JG)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf)
 | 15:30-16:00 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 16:00-17:00 | L5 & P: Simulation Basic Analyses (JG)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/5_Analysis_MDAnalysis.ipynb)
