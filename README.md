@@ -4,7 +4,7 @@ This repository contains all the materials for the *Simulation of Biomolecules* 
 
 ## Instructors
     
-- [Dr Finlay Clark, Newcastle Edinburgh (FC)](https://github.com/fjclark)
+- [Dr Finlay Clark, Newcastle University (FC)](https://github.com/fjclark)
 - [Dr Daniel Cole, Newcastle University (DC)](https://blogs.ncl.ac.uk/danielcole/)
 - [Dr Jasmin Güven, University of Bristol (JG)](https://github.com/jasmin-guven)
 
