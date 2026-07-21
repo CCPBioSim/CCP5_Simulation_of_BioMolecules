@@ -23,25 +23,27 @@ L1-8: Lectures. P: practical.
 |-------------|------------------------------------|-----------|
 | 09:00-10:00  | L1: Introduction to Proteins (DC) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/1_Introduction/Lecture_1_Introduction.pdf) |
 | 10:00-11:00 | L2: Understanding Protein Systems (JG) | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/2_Protein_Preparation/Lecture_2_Protein_Prep.pdf)
-| 11:00-11:30 | Coffee                             | [What does a great cup of coffee taste like? ☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 11:00-11:30 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:00  | P: Understanding Complex Protein Systems, contd. (JG) | [Webserver](https://server.poissonboltzmann.org/pdb2pqr)               |  
 | 12:00-12:30 | L3 Simulation Setup (FC)       | [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/Lecture_4_Simulation_setup.pdf)
 | 12:30-14:00 | Lunch                              | 🍝 |
 | 14:00-15:00 | Simulation Setup continued (FC)          | [![Simulation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/4_Simulation_Setup/4_Simulation_Setup.ipynb)
 | 15:00-15:30 | L5 Simulation Basic Analyses (JG)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf)
-| 15:30-16:00 | Coffee                             | [What does a great cup of coffee taste like? ☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 15:30-16:00 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 16:00-17:00 | L5 & P: Simulation Basic Analyses (JG)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/5_Analysis_MDAnalysis.ipynb)
 
 
 |  30 July  | Session                                             | Materials |
 |-------------|-----------------------------------------------------|-----------|
 | 09:00-11:00  | L4 & P: Protein-Ligand Docking (DC)  |  [Lecture Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Docking/Lecture_3_Docking.pdf), [![Docking](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/3_Docking/3_Docking.ipynb)
-| 11:00-11:30 | Coffee                             | [What does a great cup of coffee taste like? ☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
+| 11:00-11:30 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 11:30-12:30  | L4 & P: Protein-Ligand Docking, contd. (DC)                 |  
 
 
 
 ## Extra materials
+
+These are additional materials on machine learning methods used in biomolecular simulations that you can go through in your own time:
 
 |  Session                                             | Materials |
 |-----------------------------------------------------|-----------|
