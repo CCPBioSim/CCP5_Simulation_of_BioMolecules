@@ -1,12 +1,13 @@
 # Advanced topics for biomolecular simulation - 2026 CCP5 Summer School 
 
-This repository contains the materials for day 1 and 3 of the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2026.ccp5.ac.uk) taking place on 28th-30th July 2026 at Newcastle University. The materials are taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop). Day 2 materials will be provided separately.
+This repository contains all materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2026.ccp5.ac.uk) taking place on 28th-30th July 2026 at Newcastle University. The materials are mainly taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop).
 
 ## Instructors
     
 - [Dr Finlay Clark, Newcastle University (FC)](https://github.com/fjclark)
 - [Dr Daniel Cole, Newcastle University (DC)](https://blogs.ncl.ac.uk/danielcole/)
 - [Dr Jasmin Güven, University of Bristol (JG)](https://github.com/jasmin-guven)
+- [Professor Sarah Harris, University of Sheffield](https://sheffield.ac.uk/mps/people/all-academic-staff/sarah-harris)
 
 ## Contributors
 
@@ -14,6 +15,7 @@ The content in this workshop was created by:
 - [Dr Matteo Degiacomi, University of Edinburgh](https://degiacomi.org)
 - [Dr Antonia Mey, University of Edinburgh](https://mey-research.org//)
 - [Dr Daniel Cole, Newcastle University](https://blogs.ncl.ac.uk/danielcole/)
+- [Professor Sarah Harris, University of Sheffield](https://sheffield.ac.uk/mps/people/all-academic-staff/sarah-harris)
 
 ## Schedule
 
@@ -31,6 +33,10 @@ L1-8: Lectures. P: practical.
 | 15:00-15:30 | L5 Simulation Basic Analyses (JG)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf)
 | 15:30-16:00 | Coffee                             | [☕](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) |
 | 16:00-17:00 | L5 & P: Simulation Basic Analyses (JG)             | [Lecture Slides](5_Analysis_MDAnalysis/Lecture_5_Analysis_MDAnalysis.pdf), [![Analysis_0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/5_Analysis_MDAnalysis/5_Analysis_MDAnalysis.ipynb)
+
+| 29 July   | Session                            | Materials |
+|-------------|------------------------------------|-----------|
+| 09:00-12:30  | VMD Practical Session (SH) | [VMD Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/VMDpracticalCCPBioSim26.pdf) [BioSimDB Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/BioSimDB_workshop.pdf)|
 
 
 |  30 July  | Session                                             | Materials |
