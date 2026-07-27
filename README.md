@@ -1,6 +1,6 @@
 # Advanced topics for biomolecular simulation - 2026 CCP5 Summer School 
 
-This repository contains all materials the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2026.ccp5.ac.uk) taking place on 28th-30th July 2026 at Newcastle University. The materials are mainly taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop).
+This repository contains all materials for the *Simulation of Biomolecules* Advanced course, part of the [CCP5 Summer School](https://summer2026.ccp5.ac.uk) taking place on 28th-30th July 2026 at Newcastle University. The materials are mainly taken from the CCPBioSim course [BioSim-analysis-workshop](https://github.com/CCPBioSim/BioSim-analysis-workshop).
 
 ## Instructors
     
