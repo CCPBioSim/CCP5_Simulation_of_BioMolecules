@@ -36,7 +36,7 @@ L1-8: Lectures. P: practical.
 
 | 29 July   | Session                            | Materials |
 |-------------|------------------------------------|-----------|
-| 09:00-12:30  | VMD Practical Session (SH) | [VMD Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/VMDpracticalCCPBioSim26.pdf) [BioSimDB Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/BioSimDB_workshop.pdf)|
+| 09:00-12:30  | VMD Practical Session (SH) | [VMD Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/VMDpracticalCCPBioSim26.pdf), [BioSimDB Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/BioSimDB_workshop.pdf), [BioSimDB](https://data-collections.psdi.ac.uk/communities/biosimdb/records?q=&l=list&p=1&s=10&sort=newest)|
 
 
 |  30 July  | Session                                             | Materials |
