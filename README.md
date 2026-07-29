@@ -8,6 +8,8 @@ This repository contains all materials for the *Simulation of Biomolecules* Adva
 - [Dr Daniel Cole, Newcastle University (DC)](https://blogs.ncl.ac.uk/danielcole/)
 - [Dr Jasmin Güven, University of Bristol (JG)](https://github.com/jasmin-guven)
 - [Professor Sarah Harris, University of Sheffield](https://sheffield.ac.uk/mps/people/all-academic-staff/sarah-harris)
+- [Dr Kate Harris, Newcastle University](https://www.ncl.ac.uk/cancer/people/profile/kateharris.html)
+
 
 ## Contributors
 
@@ -16,6 +18,7 @@ The content in this workshop was created by:
 - [Dr Antonia Mey, University of Edinburgh](https://mey-research.org//)
 - [Dr Daniel Cole, Newcastle University](https://blogs.ncl.ac.uk/danielcole/)
 - [Professor Sarah Harris, University of Sheffield](https://sheffield.ac.uk/mps/people/all-academic-staff/sarah-harris)
+- [Dr Kate Harris, Newcastle University](https://www.ncl.ac.uk/cancer/people/profile/kateharris.html)
 
 ## Schedule
 
@@ -37,6 +40,8 @@ L1-8: Lectures. P: practical.
 | 29 July   | Session                            | Materials |
 |-------------|------------------------------------|-----------|
 | 09:00-12:30  | VMD Practical Session (SH) | [VMD Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/VMDpracticalCCPBioSim26.pdf), [BioSimDB Slides](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/9_Visualisation_VMD/BioSimDB_workshop.pdf), [BioSimDB](https://data-collections.psdi.ac.uk/communities/biosimdb/records?q=&l=list&p=1&s=10&sort=newest)|
+| 12:30-14:00 | Lunch                              | 🍝 |
+| 14:00-17:00  | Ligand Design Workshop (KH) | [Materials](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/blob/main/10_Ligand_Design) |
 
 
 |  30 July  | Session                                             | Materials |
